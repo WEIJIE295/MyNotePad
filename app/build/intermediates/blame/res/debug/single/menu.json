@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_options_menu.xml",
+        "source": "F:\\NotePad\\app\\src\\main\\res\\menu\\list_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\Desktop\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\editor_options_menu.xml",
+        "source": "C:\\Users\\john\\Desktop\\NotePad\\app\\src\\main\\res\\menu\\editor_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\Desktop\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_options_menu.xml",
+        "source": "C:\\Users\\john\\Desktop\\NotePad\\app\\src\\main\\res\\menu\\list_options_menu.xml"
+    },
+    {
+        "merged": "F:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\editor_options_menu.xml",
+        "source": "F:\\NotePad\\app\\src\\main\\res\\menu\\editor_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\john\\Desktop\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_context_menu.xml",
+        "source": "C:\\Users\\john\\Desktop\\NotePad\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "F:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_context_menu.xml",
+        "source": "F:\\NotePad\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "D:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_context_menu.xml",
+        "source": "D:\\NotePad\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "D:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\editor_options_menu.xml",
+        "source": "D:\\NotePad\\app\\src\\main\\res\\menu\\editor_options_menu.xml"
+    },
+    {
+        "merged": "D:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_options_menu.xml",
+        "source": "D:\\NotePad\\app\\src\\main\\res\\menu\\list_options_menu.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\live_folder_notes.png",
+        "source": "D:\\NotePad\\app\\src\\main\\res\\drawable-ldpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "D:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_notes.png",
+        "source": "D:\\NotePad\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    },
+    {
+        "merged": "F:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\live_folder_notes.png",
+        "source": "F:\\NotePad\\app\\src\\main\\res\\drawable-ldpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\Desktop\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\live_folder_notes.png",
+        "source": "C:\\Users\\john\\Desktop\\NotePad\\app\\src\\main\\res\\drawable-ldpi\\live_folder_notes.png"
+    },
+    {
+        "merged": "C:\\Users\\john\\Desktop\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_notes.png",
+        "source": "C:\\Users\\john\\Desktop\\NotePad\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    },
+    {
+        "merged": "F:\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\app_notes.png",
+        "source": "F:\\NotePad\\app\\src\\main\\res\\drawable-ldpi\\app_notes.png"
+    }
+]
